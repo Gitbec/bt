@@ -1,0 +1,25 @@
+{
+    "name": "BT",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "pxt-bluetooth-beacons": "github:Amerlander/pxt-bluetooth-beacons#b3dbd0f2d1ae6beb87f0b4e712b0721aff795451"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.27",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
